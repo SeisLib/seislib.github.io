@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on USTC地球物理课程资源网</title>
+    <link>https://seislib.github.io/tags/</link>
+    <description>Recent content in Tags on USTC地球物理课程资源网</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2013 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://seislib.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Golang</title>
+      <link>https://seislib.github.io/tags/golang/</link>
+      <pubDate>Wed, 02 Oct 2013 21:49:20 +0200</pubDate>
+      
+      <guid>https://seislib.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://seislib.github.io/tags/hugo/</link>
+      <pubDate>Fri, 03 Aug 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://seislib.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://seislib.github.io/tags/programming/</link>
+      <pubDate>Wed, 02 Oct 2013 21:49:20 +0200</pubDate>
+      
+      <guid>https://seislib.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>https://seislib.github.io/tags/theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://seislib.github.io/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

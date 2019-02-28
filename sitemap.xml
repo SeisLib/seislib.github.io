@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://seislib.github.io/tags/</loc>
+    <lastmod>2019-02-28T21:15:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/post/hugo-is-for-lovers/</loc>
+    <lastmod>2018-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/about/</loc>
+    <lastmod>2017-06-07T15:36:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/contact/</loc>
+    <lastmod>2017-06-07T15:36:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/post/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/post/linked-post/</loc>
+    <lastmod>2013-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/tags/golang/</loc>
+    <lastmod>2013-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/tags/hugo/</loc>
+    <lastmod>2018-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/post/</loc>
+    <lastmod>2018-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/categories/programming/</loc>
+    <lastmod>2013-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/tags/programming/</loc>
+    <lastmod>2013-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/categories/pseudo/</loc>
+    <lastmod>2018-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/categories/starting/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/tags/</loc>
+    <lastmod>2013-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/author/test1/</loc>
+    <lastmod>2018-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/tags/theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seislib.github.io/</loc>
+    <lastmod>2019-02-28T21:15:29+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
